@@ -21,8 +21,12 @@
 ⚡ My Github
 --
 
-![](https://raw.githubusercontent.com/dbwjd5864/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/dbwjd5864/github-stats-transparent/output/generated/languages.svg)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" height='170' src="https://github-readme-stats.vercel.app/api?username=dbwjd5864&show_icons=true&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" height='170' src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbwjd5864&layout=compact" />
+</a>
 
 <!--
 **dbwjd5864/dbwjd5864** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
